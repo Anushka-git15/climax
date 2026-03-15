@@ -29,6 +29,28 @@ margin-bottom:10px;
 
 }
 
+.logo-box{
+    display:flex;
+    align-items:center;
+    gap:15px;
+}
+
+.logo-img{
+    width:60px;
+    height:60px;
+}
+
+.logo{
+    margin:0;
+    font-size:24px;
+    font-weight:600;
+}
+
+.tag{
+    margin:0;
+    font-size:14px;
+    color:#ccc;
+}
 .tagline{
 
 color:#ccc;
